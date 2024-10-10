@@ -1,0 +1,14 @@
+{
+  "domain": "localplayer.dev",
+  "subdomain": "dpi0",
+
+  "owner": {
+    "email": "dpi0.dev@proton.me"
+  },
+
+  "record": {
+    "A": ["127.0.0.1"]
+  },
+
+  "proxied": false
+}
